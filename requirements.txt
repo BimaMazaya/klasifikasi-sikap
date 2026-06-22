@@ -1,0 +1,9 @@
+streamlit>=1.32.0
+scikit-learn>=1.3.0
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Pilih salah satu atau keduanya sesuai model kamu:
+# transformers>=4.38.0   # untuk HuggingFace / IndoBERT
+# tensorflow>=2.13.0     # untuk Keras
+# torch>=2.0.0           # untuk HuggingFace dengan PyTorch
